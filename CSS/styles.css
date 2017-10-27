@@ -10,3 +10,6 @@ footer{
 	background-color: #000;
 	opacity: .7;
 }
+li{
+	list-style-type: none;
+}
